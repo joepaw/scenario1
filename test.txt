@@ -1,1 +1,1 @@
-Out-Host "testme"
+Write-Host "testme"
